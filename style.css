@@ -1,0 +1,48 @@
+body {
+    color: #E0E0E0; /* Texto em cinza claro para facilitar a leitura */
+    background-color: #0E1F2A; /* Fundo escuro com um toque azul, reminiscentes do planeta Pandora */
+    margin: 0;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+  header {
+    background-color: #1B3A57; /* Azul profundo para evocar os mares de Pandora */
+    padding: 20px;
+    font-size: 32px;
+    color: #A9D8B9; /* Verde claro para contraste */
+    text-align: center;
+    border-bottom: solid 2px #5B8DA0; /* Borda inferior em azul claro */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  section {
+    background-color: #2A4B6D; /* Azul acinzentado, inspirado no céu e água de Pandora */
+    padding: 80px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E0E0E0;
+  }
+  
+  .chamada-texto {
+    margin-right: 5%;
+    max-width: 300px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    color: #A9D8B9; /* Verde claro para o título */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+  }
+  
+  p {
+    font-size: 18px;
+    color: #B0B0B0; /* Cinza mais claro para as hashtags */
+    opacity: 0.9;
+  }
+  
+  /* Estilizando o iframe */
+  iframe {
+    border: solid 3px #5B8DA0; /* Borda em azul claro ao redor do vídeo */
+    border-radius: 8px; /* Bordas arredondadas para suavizar o visual */
+  }
